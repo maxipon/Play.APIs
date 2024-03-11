@@ -2,13 +2,13 @@
 
 ## Description
 
-This project is a collection of services and frameworks designed to facilitate communication between the Catalog and Inventory services. It includes the following components:
+This project is a collection of services and frameworks designed to facilitate communication between the Catalog and Inventory services throughout REST APIs. It includes the following components:
 
 - **Play.Infra**: Contains the `docker-compose.yaml` file to help develop and run the application locally.
 - **Play.Frontend**: A simple template for the frontend, which uses the Catalog and Inventory services and is written in Node.js.
 - **Play.Common**: A simple framework that initializes the connection to MongoDB and helps communicate between the Catalog and Inventory services.
 - **Play.Inventory**: Defines the Inventory Entities and its Services.
-- **Play.Catalog**: Defines the Catalog Entities and its Services.
+- **Play.Catalog**: Defines the Catalog Entities, its Contracts, and its Services.
 
 ## Why?
 
@@ -37,6 +37,7 @@ Here are some examples of how to use this project:
 - Example 1: Use Postman to test how Catalog and Inventory services interacts with each other. Remember to use it with RabbitMQ (you can navigate to localhost:27017) for additional information!
 
 ## Contributing
+freeCodeCamp has guided me throughout this project, so remember to check them out for their detailed & quality tutorial 🎉
 
 We welcome contributions from the community. To contribute, follow these steps:
 
