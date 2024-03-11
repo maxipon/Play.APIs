@@ -20,14 +20,14 @@ To get started with this project, follow these steps:
 
 1. Install .NET 7.0, Docker to your machine
 2. Clone the repository
-3. Open an terminal however you want, in these folders:
+3. Open an terminal however you want, in these folder:
 - Play.Infra
 4. Run the command "docker compose up -d" in the above terminal.
 5. Open an terminal however you want, in these folders:
 - Play.Inventory\src\Play.Inventory.Service
 - Play.Catalog\src\Play.Catalog.Service
 6. Run the command "dotnet run --launch-profile https" in both of the above terminal.
-7. Open an terminal however you want, in these folders:
+7. Open an terminal however you want, in these folder:
 - Play.Frontend
 8. Run the command "npm start" in the above terminal.
 9. Open your desired browser, navigate to http://localhost:3000.
