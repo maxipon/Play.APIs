@@ -1,0 +1,11 @@
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net7.0\Play.Catalog.Contracts.deps.json
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net7.0\Play.Catalog.Contracts.dll
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\bin\Debug\net7.0\Play.Catalog.Contracts.pdb
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.AssemblyInfoInputs.cache
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.AssemblyInfo.cs
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.dll
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\refint\Play.Catalog.Contracts.dll
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\Play.Catalog.Contracts.pdb
+C:\Users\phi10\Desktop\Workspace\Play.Catalog\src\Play.Catalog.Contracts\obj\Debug\net7.0\ref\Play.Catalog.Contracts.dll
