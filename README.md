@@ -26,7 +26,7 @@ The motivation behind this project is to provide a clear and concise documentati
 
 To get started with this project, follow these steps:
 
-1. Install .NET 7.0, Docker to your machine
+1. Install `.NET 7.0`, `Docker` to your machine
 2. Clone the repository
 3. Open an terminal however you want, in these folder:
 - Play.Infra
@@ -38,7 +38,7 @@ To get started with this project, follow these steps:
 7. Open an terminal however you want, in these folder:
 - Play.Frontend
 8. Run the command "npm start" in the above terminal. (when you have done, please type Ctrl+C in the terminal)
-9. Open your desired browser, navigate to http://localhost:3000.
+9. Open your desired browser, navigate to `http://localhost:3000`.
 10. You should be able to explore from here.
 
 
@@ -46,8 +46,8 @@ To get started with this project, follow these steps:
 
 Here are examples of how to use this project:
 
-- Use Postman to test how Catalog (localhost:7205) and Inventory (localhost:7201) services interacts with each other throughout their APIs.
-- Remember to use it with RabbitMQ (localhost:27017) for additional information!
+- Use Postman to test how Catalog (`localhost:7205`) and Inventory (`localhost:7201`) services interacts with each other throughout their APIs.
+- Remember to use it with RabbitMQ (`localhost:27017`) for additional information!
 
 ## Contributing
 freeCodeCamp has guided me throughout this project, so remember to check them out for their detailed & quality tutorial 🎉
