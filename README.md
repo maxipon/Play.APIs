@@ -36,9 +36,10 @@ To get started with this project, follow these steps:
 
 ## Usage
 
-Here are some examples of how to use this project:
+Here are examples of how to use this project:
 
-- Example 1: Use Postman to test how Catalog and Inventory services interacts with each other. Remember to use it with RabbitMQ (you can navigate to localhost:27017) for additional information!
+- Use Postman to test how Catalog (localhost:7205) and Inventory (localhost:7201) services interacts with each other throughout their APIs.
+- Remember to use it with RabbitMQ (you can navigate to localhost:27017) for additional information!
 
 ## Contributing
 freeCodeCamp has guided me throughout this project, so remember to check them out for their detailed & quality tutorial 🎉
