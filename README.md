@@ -7,8 +7,16 @@ This project is a collection of services and frameworks designed to facilitate c
 - **Play.Infra**: Contains the `docker-compose.yaml` file to help develop and run the application locally.
 - **Play.Frontend**: A simple template for the frontend, which uses the Catalog and Inventory services and is written in Node.js.
 - **Play.Common**: A simple framework that initializes the connection to MongoDB and helps communicate between the Catalog and Inventory services.
-- **Play.Inventory**: Defines the Inventory Entities and its Services.
-- **Play.Catalog**: Defines the Catalog Entities, its Contracts, and its Services.
+- **Play.Inventory**: Defines the Inventory Entities and its Services. Has the following routes:
++ GET /items/(id)
++ POST /items/(id)
+- **Play.Catalog**: Defines the Catalog Entities, its Contracts, and its Services. Has the following routes:
++ GET /items/
++ POST /items/
+---
++ GET /items/:id
++ PUT /items/:id
++ DELETE /items/:id
 
 ## Why?
 
