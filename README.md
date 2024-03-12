@@ -30,14 +30,14 @@ To get started with this project, follow these steps:
 2. Clone the repository
 3. Open an terminal however you want, in these folder:
 - Play.Infra
-4. Run the command "docker compose up -d" in the above terminal. (when you have done, please run "docker compose down" in the same terminal)
+4. Run the command `docker compose up -d` in the above terminal. (when you have done, please run "docker compose down" in the same terminal)
 5. Open an terminal however you want, in these folders:
 - Play.Inventory\src\Play.Inventory.Service
 - Play.Catalog\src\Play.Catalog.Service
-6. Run the command "dotnet run --launch-profile https" in both of the above terminal. (when you have done, please type Ctrl+C in both of the terminals)
+6. Run the command `dotnet run --launch-profile https` in both of the above terminal. (when you have done, please type Ctrl+C in both of the terminals)
 7. Open an terminal however you want, in these folder:
 - Play.Frontend
-8. Run the command "npm start" in the above terminal. (when you have done, please type Ctrl+C in the terminal)
+8. Run the command `npm start` in the above terminal. (when you have done, please type Ctrl+C in the terminal)
 9. Open your desired browser, navigate to `http://localhost:3000`.
 10. You should be able to explore from here.
 
