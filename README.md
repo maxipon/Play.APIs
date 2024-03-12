@@ -20,7 +20,7 @@ This project is a collection of services and frameworks designed to facilitate c
 
 ## Why?
 
-The motivation behind this project is to provide a clear and concise documentation for users and contributors.
+Inspired by the collaborative nature of the Final Fantasy 14 franchise, this project aims to streamline communication between Catalog and Inventory services through REST APIs.
 
 ## Quick Start
 
